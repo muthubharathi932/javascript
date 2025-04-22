@@ -1,0 +1,23 @@
+let m ='i got job'
+let b="I GOT JOB"
+
+console.log(m.indexOf('o'))
+console.log(m.indexOf('7'))
+console.log(m.lastIndexOf('j'))
+console.log(m.includes('6 8'))
+console.log(m.includes('45'))
+console.log(m.charAt(7))
+console.log(m.slice(2,4))
+console.log(m.substring(2,3))
+console.log(m.substring(-2))
+console.log(m.split('ot'))
+console.log(b.trim())
+console.log(m.endsWith('4'))
+console.log(m.startsWith('B'))
+console.log(b.concat())
+console.log(m.match('b'))
+console.log(m.toLowerCase('m'))
+console.log(m.toUpperCase())
+console.log(m.substring(-2))
+console.log(m.search('i'))
+console.log(m.repeat(2))
