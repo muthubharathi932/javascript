@@ -7,7 +7,7 @@ Variables types ----> Var, Let and Const*/
 //#Var type
 var a = 10;
 console.log(a)
-var a = 20;
+var a = 22;
 console.log(a)  // Var can be redeclared and updated (function or global scope variable)
 
 //#Let type
